@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá visitante, Meu nome é Bruno Eduardo e essa é a minha jornada tech 👋
 
 <!--
 **brunopersy/brunopersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
