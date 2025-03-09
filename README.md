@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# Olá, bom ter você por aqui!
+# Olá, seja bem-vindo
   <div id="badges">
   <a href = "https://github.com/brunopersy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,8 +9,8 @@
 
 Sou Analista de Dados
 
-- ❤ Estudante de Ciência de Dados
-- 👩‍💻 Aprendendo Machine Learning
+- Estudante de Ciência de Dados
+- 👩‍💻 Me contrate para sua empresa!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
